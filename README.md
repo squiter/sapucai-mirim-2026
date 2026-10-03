@@ -1,8 +1,8 @@
-# Entre montanhas e estrelas
+# Sob a Via Láctea
 
 Guia estático em português para a viagem a Sapucaí-Mirim e São Bento do Sapucaí de 9 a 12 de outubro de 2026.
 
-HTML, CSS e JavaScript puro, sem dependências ou etapa de compilação. Abra `index.html` ou sirva a pasta com qualquer servidor estático. Inclui cronograma por dia, cards com detalhes e mapas, opções veganas, sessão de Via Láctea, checklist e modo de luz baixa. As marcações do checklist são temporárias.
+HTML, CSS e JavaScript puro, sem dependências ou etapa de compilação. Abra `index.html` ou sirva a pasta com qualquer servidor estático. Layout prioriza celulares, com navegação inferior e foco nas noites de Via Láctea. Inclui cronograma por dia com detalhes expansíveis, 13 cards de passeios e restaurantes com modais, mapas, checklist e modo de luz baixa. As marcações do checklist são temporárias.
 
 ## Publicação
 
